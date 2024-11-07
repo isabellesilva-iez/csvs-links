@@ -16,7 +16,7 @@
 
 <span id="visao-geral">
     
-## Visão Geral
+## 1. Visão Geral
 
 Este repositório contém o frontend da aplicação mobile **[Nome do Projeto]**, construída para [descrever o objetivo ou público-alvo da aplicação].
 
@@ -24,7 +24,7 @@ Este repositório contém o frontend da aplicação mobile **[Nome do Projeto]**
 
 <span id="#tecnologias-utilizadas">
     
-## Tecnologias Utilizadas
+## 2. Tecnologias Utilizadas
 
 <img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /> 
 
@@ -33,7 +33,7 @@ Este repositório contém o frontend da aplicação mobile **[Nome do Projeto]**
 
 <span id="#funcionalidades">
     
-## Funcionalidades
+## 3. Funcionalidades
 
 - [x] Funcionalidade 1 (exemplo: "Login de usuários")
 - [ ] Funcionalidade 2 (exemplo: "Tela de navegação com animações suaves")
@@ -47,7 +47,7 @@ Este repositório contém o frontend da aplicação mobile **[Nome do Projeto]**
 
 <span id="instalacao">
     
-## Instalação e Execução
+## 4. Instalação e Execução
 
 ### Pré-requisitos de instalação
 
@@ -110,7 +110,7 @@ Antes de começar, é necessário ter os seguintes requisitos instalados:
 
 <span id="estrutura">
 
-## Estrutura do Projeto
+## 5. Estrutura do Projeto
 
 A estrutura do projeto é organizada da seguinte maneira:
 
