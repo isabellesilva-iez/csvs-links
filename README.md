@@ -1,49 +1,59 @@
 <span id="topo">
 
-# Nome da Aplicação Mobile
+<h1 align="center">
 
-> Descrição breve da aplicação. O que ela faz, qual problema resolve, etc.
+    Aplicação Mobile - Frontend
+    
+</h1>
 
----
+<br />
 
 ## Índice
 
-1. [Visão Geral](#visão-geral)
+1. [Visão Geral](#visao-geral)
 2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 3. [Funcionalidades](#funcionalidades)
-4. [Instalação e Execução](#instalação)
+4. [Instalação e Execução](#instalacao)
 5. [Estrutura do Projeto](#estrutura-do-projeto)
 
 <br />
 
-<span id="visão-geral">
+<span id="visao-geral">
+    
 ## Visão Geral
 
 Este repositório contém o frontend da aplicação mobile **[Nome do Projeto]**, construída para [descrever o objetivo ou público-alvo da aplicação].
+
 <br />
 
 <span id="#tecnologias-utilizadas">
+    
 ## Tecnologias Utilizadas
 
-<img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma>
+<img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /> 
 
-→ [Voltar ao topo](#topo)
+<br />
 <br />
 
 <span id="#funcionalidades">
+    
 ## Funcionalidades
 
 - [x] Funcionalidade 1 (exemplo: "Login de usuários")
 - [ ] Funcionalidade 2 (exemplo: "Tela de navegação com animações suaves")
 - [ ] Funcionalidade 3 <---! (exemplo: "Integração com API para dados ao vivo") --> 
 
-→ [Voltar ao topo](#topo)
 <br />
 
-<span id="instalação">
+→ [Voltar ao topo](#topo)
+
+<br />
+
+<span id="instalacao">
+    
 ## Instalação e Execução
 
-### Pré-requisitos
+### Pré-requisitos de instalação
 
 Antes de começar, é necessário ter os seguintes requisitos instalados:
 
@@ -51,6 +61,8 @@ Antes de começar, é necessário ter os seguintes requisitos instalados:
 - Yarn ou npm - [Instalar Yarn](https://yarnpkg.com/getting-started/install) ou npm já vem com o Node.js.
 - Android Studio (para emulador Android) ou Xcode (para emulador iOS).
 - Expo CLI (caso esteja utilizando Expo) - `npm install -g expo-cli`.
+
+<br />
 
 ### Passos para rodar a aplicação
 
@@ -94,12 +106,19 @@ Antes de começar, é necessário ter os seguintes requisitos instalados:
     ```bash
     expo start
     ```
+<br />
 
 → [Voltar ao topo](#topo)
+
 <br />
+
+<span id="estrutura">
 
 ## Estrutura do Projeto
 
 A estrutura do projeto é organizada da seguinte maneira:
 
----
+<br />
+
+
+→ [Voltar ao topo](#topo)
