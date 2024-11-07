@@ -1,10 +1,6 @@
 <span id="topo">
 
-<h1 align="center">
-
-    Aplicação Mobile - Frontend
-    
-</h1>
+# Aplicação Mobile - Frontend
 
 <br />
 
